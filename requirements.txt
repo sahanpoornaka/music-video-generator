@@ -1,0 +1,4 @@
+wheel
+scenedetect[opencv]
+moviepy
+pydub
