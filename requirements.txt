@@ -2,3 +2,4 @@ wheel
 scenedetect[opencv]
 moviepy
 pydub
+librosa
